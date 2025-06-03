@@ -1,0 +1,2 @@
+app_identifier("com.cssoftteam.animalaidapp") # The bundle identifier of our app
+apple_id("cssoftteam@gmail.com") # Apple email address from which app is being published
