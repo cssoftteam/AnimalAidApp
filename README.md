@@ -4,9 +4,9 @@
 
 <!-- TODO: Add screenshots -->
 <p float="left">
-    <img src="1" alt="Posts feed" width="250">
-    <img src="2" alt="App Drawer" width="250">
-    <img src="3" alt="Onboarding" width="250">
+    <img src="https://github.com/user-attachments/assets/968bd077-b4c1-4c16-a9fe-52b947882171" alt="Onboarding" width="250">
+    <img src="https://github.com/user-attachments/assets/329e710e-d4e3-48d6-a96f-fd5088868b0f" alt="Posts feed" width="250">
+    <img src="https://github.com/user-attachments/assets/ed20cf8f-9356-4022-80f4-3747f842ba69" alt="App Drawer" width="250">
 </p>
 
 ### See [web demo](https://cssoftteam.github.io/AnimalAidApp/)
