@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-<!-- TODO: Add screenshots -->
 <p float="left">
     <img src="https://github.com/user-attachments/assets/968bd077-b4c1-4c16-a9fe-52b947882171" alt="Onboarding" width="250">
     <img src="https://github.com/user-attachments/assets/329e710e-d4e3-48d6-a96f-fd5088868b0f" alt="Posts feed" width="250">
